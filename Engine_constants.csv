@@ -1,0 +1,7 @@
+Engine,No. of cylinders,No. of strokes,Compression Ratio,Calorific value of Fuel(KJ/Kg),Fuel Density(Kg/m^3),Diameter of Air Intake Orifice(mm),Orifice co-efficient of discharge,Bore(mm),Stroke Length(mm),Dynamometer arm Length(mm)
+Kirloskar,1,4,18,42000,830,20,0.6,88,110,185
+Maruthi,3,4,9.2,44000,740,35,0.6,66.5,72,210
+TATA(Indigo),4,4,18.5,42000,830,48,0.6,75,79.5,270
+Bajaj(Auto),1,2,7.4,44000,740,13,0.6,57,57,185
+Bajaj(Ape),1,4,9,44000,740,16,0.6,57,68,185
+Legion Brothers,1,2,16.5,42000,830,20,0.62,100,142,196
